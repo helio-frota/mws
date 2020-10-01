@@ -23,4 +23,4 @@ in other terminal
 npm run form
 ```
 
-![Alt screenshot](https://raw.githubusercontent.com/helio-frota/mws/master/mws.jpg)
+![Alt screenshot](https://github.com/helio-frota/mws/raw/main/mws.png)
