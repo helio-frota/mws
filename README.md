@@ -1,6 +1,24 @@
 # mws
-Playing with typescript typeorm and blessed 
 
+## My Weekly Status
+
+![Alt screenshot](https://github.com/helio-frota/mws/raw/main/mws.png)
+
+
+## Back-end
+
+* Docker
+* MySQL
+* [TypeORM](https://github.com/typeorm/typeorm)
+* [Express](https://github.com/expressjs/express)
+
+## Front-end
+
+* Terminal
+* [Blessed](https://github.com/chjj/blessed)
+
+
+### Setup and run
 
 ```
 docker pull mysql
@@ -22,5 +40,3 @@ in other terminal
 ```
 npm run form
 ```
-
-![Alt screenshot](https://github.com/helio-frota/mws/raw/main/mws.png)
